@@ -18,3 +18,4 @@ public final class p020 implements EulerSolution {
 	
 }
 //...
+// want to update more so go on
